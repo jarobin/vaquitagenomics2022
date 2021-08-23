@@ -20,7 +20,10 @@ import Selection
 import scipy.stats.distributions
 import scipy.integrate
 import scipy.optimize
-
+# versions:
+#dadi==1.7.0
+#scipy==1.2.1
+#numpy==1.16.5
 
 # class ArgumentParserNoArgHelp(argparse.ArgumentParser):
 #     """Like *argparse.ArgumentParser*, but prints help when no arguments."""
