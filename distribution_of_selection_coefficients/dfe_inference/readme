@@ -1,7 +1,5 @@
 # readme
-These scripts were originally written by Jon Man and modified by Annabel Beichman.
-They will first carry out demographic inference on using the synonymous SFS using dadi, then infer the distribution of selection coefficients
-based on the nonsynonymous SFS using fitdadi. 
+These scripts were originally written by Jon Mah and modified by Annabel Beichman.
+They will first carry out demographic inference on using the synonymous SFS using dadi, then infer the distribution of selection coefficients based on the missense SFS using fitdadi. 
 
-The wrapper script (fitdadi_infer_DFE.Vaquita.TwoEpochOnly.Wrapper.ForGithub.sh) can be used to see how 
-varying different parameters such as the mutation rate or ratio of nonsynonymous to synonymous sites affects the inferred distribution. 
+The wrapper script (fitdadi_infer_DFE.Vaquita.TwoEpochOnly.Wrapper.ForGithub.sh) can be used to see how varying different parameters such as the mutation rate or ratio of nonsynonymous to synonymous sites affects the inferred distribution. 
