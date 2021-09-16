@@ -2,7 +2,7 @@
 
 ## 1. GetHiQualCoords_20200602.sh (uses the script obtain_high_qual_coordinates.py)
 
-## 2. Exon_distance_calc.sh
+## 2. exon_distance_calc.sh
 
 ## 3. Extract_noCpG_noRepetitive.sh
 
