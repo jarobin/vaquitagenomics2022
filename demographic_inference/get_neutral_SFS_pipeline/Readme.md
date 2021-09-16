@@ -1,4 +1,4 @@
-# Pipeline to build the neutral SFS
+# Pipeline to build the neutral folded SFS
 
 ## 1. Neutral_PreviewProjection_EasySFS_1D.sh (calls easySFS_ab.py and pop_map.txt)
 ## 2. SFS_preview_v1.R
