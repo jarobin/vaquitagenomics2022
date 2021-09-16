@@ -1,4 +1,4 @@
-# Pipeline to get neutral regions to build neutral SFS for vaquita
+# Pipeline to get neutral regions to build neutral folded SFS for vaquita
 
 ## 1. GetHiQualCoords_20200602.sh (uses the script obtain_high_qual_coordinates.py)
 
