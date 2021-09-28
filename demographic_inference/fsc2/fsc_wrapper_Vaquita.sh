@@ -8,7 +8,7 @@
 #$ -t 1-100
 
 # This is a wrapper that will run 100 fastsimcoal iterations for each population for any list of models
-# Author: Annabel Beichman , modified by Paulina Nunez (pnunez@lcg.unam.mx)
+# Author: Annabel Beichman , modified by Paulina Nunez (pnunez@lcg.unam.mx) and Sergio Nigenda
 # Usage: qsub fsc_wrapper_Vaquita.sh
 
 source /u/project/rwayne/software/finwhale/miniconda2/etc/profile.d/conda.sh
