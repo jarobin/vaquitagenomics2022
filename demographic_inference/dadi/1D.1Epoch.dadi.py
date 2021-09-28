@@ -26,7 +26,7 @@ parser.add_argument("--L",required=True,help="number of called neutral sites tha
 parser.add_argument("--sfs",required=True,help="path to FOLDED SFS in dadi format from easysfs (mask optional)")
 parser.add_argument("--outdir",required=True,help="path to output directory")
 # usage:
-# python 1D.1Epoch.dadi.py --runNum $i --pop Vaquita --mu 1.08E-08 --L 481881665  --sfs [path to sfs] --outdir [path to outdir] Note: Please see the wrapper script were this line is incorporated to run this script from the wrapper
+# python 1D.1Epoch.dadi.py --runNum $i --pop Vaquita --mu 5.8E-09 --L 481881665  --sfs [path to sfs] --outdir [path to outdir] Note: Please see the wrapper script were this line is incorporated to run this script from the wrapper
 
 args = parser.parse_args()
 runNum=str(args.runNum)
