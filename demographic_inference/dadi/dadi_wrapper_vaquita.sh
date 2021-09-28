@@ -29,7 +29,7 @@ set -eo pipefail
 ## Def variables -------------------------------
 
 generaldir=/u/project/rwayne/jarobins/vaquita/Phsi_neutral_sfs
-mu=1.08E-08 # in units of mutations bp-1 generation-1 (Dornburg et al. 2012)
+mu=5.8E-09 # in units of mutations bp-1 generation-1 (Dornburg et al. 2012)
 hetFilter=0.75
 todaysdate=`date +%Y%m%d`
 workdir=/u/project/rwayne/jarobins/vaquita/Phsi_neutral_sfs/Demography/dadi
