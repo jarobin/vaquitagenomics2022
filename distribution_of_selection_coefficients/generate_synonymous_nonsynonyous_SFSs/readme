@@ -2,4 +2,4 @@
 
 These scripts were used to extract the synonymous and missense SNPs based on the annotation of the vaquita genome (getSynMisSNPs/), and to generate the projected and folded SFS using a modification of easySFS (easySFS.abModified.3.noInteract.Exclude01Sites.HetFiltering.20181121.py) which
 also filters out sites with excess (>75%) heterozygosity. First, all possible projection values are assessed (easySFS_1_ProjectionPreview.sh), then the output is parsed (easySFS_2_parseProjectionPreview.shell.sh) and the optimal projection value is chosen (easySFS_3_determineOptimalProjection.R).
-Then, projection is carried out (easySFS_4_CarryOutProjection.sh).
+Then, projection is carried out (easySFS_4_CarryOutProjection.sh). The scripts are a modification of the easySFS pipeline (https://github.com/isaacovercast/easySFS).
