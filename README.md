@@ -1,3 +1,3 @@
-# Vaquita Genomics 2021
+# Vaquita Genomics 2022
 
-Scripts used for analyses in Robinson and Kyriazis et al., "Genomics reveals high recovery potential in the critically endangered vaquita."
+Scripts used for genomic analyses in Robinson and Kyriazis et al., "The critically endangered vaquita is not doomed to extinction by inbreeding depression."
