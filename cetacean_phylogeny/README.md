@@ -1,5 +1,5 @@
-See `phylogeny_BUSCO_cetaceans.sh` for pipeline used to infer cetacean phylogeny used in phylogenetic generalized least squares (PGLS) regression (`T2_ml.nwk`).
+`phylogeny_BUSCO_cetaceans.sh` contains the pipeline used to infer cetacean phylogeny required for phylogenetic generalized least squares (PGLS) regression.
 
-`T1_ml.nwk` is the phylogeny inferred without partitioning.
+`T1_ml.nwk` is the cetacean phylogeny inferred without partitioning.
 
-`T2_ml.nwk` is the phylogeny inferred with partitioning, which was used for PGLS regressions.
+`T2_ml.nwk` is the cetacean phylogeny inferred with partitioning, which was used for PGLS regression.
